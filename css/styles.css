@@ -1,4 +1,6 @@
 nav {display: none;}
 
 .first-slide {
-  background-image: url('http://media.beam.usnews.com/c7/6f/3d99f4b7486888f1e7b0072f0fae/151119-vacationhome-stock.jpg');}
+  background-image: url('http://media.beam.usnews.com/c7/6f/3d99f4b7486888f1e7b0072f0fae/151119-vacationhome-stock.jpg');
+  background-position: 30% 44%;
+}
